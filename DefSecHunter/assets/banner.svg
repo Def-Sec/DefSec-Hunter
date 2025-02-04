@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100" viewBox="0 0 400 100">
-  <style>
-    .text { font-family: 'Courier New', monospace; font-size: 48px; fill: #00fff2; }
-    .subtitle { font-family: 'Arial', sans-serif; font-size: 18px; fill: #ffffff; }
-  </style>
-  <rect width="100%" height="100%" fill="#1a1a1a"/>
-  <text x="50%" y="45%" class="text" text-anchor="middle">DefSec</text>
-  <text x="50%" y="70%" class="subtitle" text-anchor="middle">Professional Security Testing Tool</text>
-</svg>
